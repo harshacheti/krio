@@ -1,0 +1,310 @@
+.mediaViewInfo {
+	--web-view-name: programsmenu;
+	--web-view-id: programsmenu;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: programsmenu;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#programsmenu {
+	position: absolute;
+	width: 375px;
+	height: 830px;
+	background-color: rgba(228,228,228,1);
+	overflow: hidden;
+	--web-view-name: programsmenu;
+	--web-view-id: programsmenu;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+#Icon_metro-cross {
+	fill: rgba(0,0,0,1);
+}
+.Icon_metro-cross {
+	overflow: visible;
+	position: absolute;
+	width: 18.591px;
+	height: 18.591px;
+	left: 336.132px;
+	top: 18.408px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#final_KRIO_logo {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 140px;
+	height: 36px;
+	left: 118px;
+	top: 13px;
+	overflow: visible;
+}
+#Home {
+	left: 50px;
+	top: 108px;
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#About {
+	left: 50px;
+	top: 159px;
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Programs {
+	left: 50px;
+	top: 210px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(254,12,152,1);
+}
+#WhatsApp__ {
+	left: 50px;
+	top: 416px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Email__________ {
+	left: 50px;
+	top: 452px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Corporate_Daycare {
+	left: 50px;
+	top: 261px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Gallery {
+	left: 50px;
+	top: 312px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Address {
+	left: 160px;
+	top: 510px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(46,49,146,1);
+	text-decoration: underline;
+}
+#Contact_us {
+	left: 50px;
+	top: 363px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Line_13 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_13 {
+	overflow: visible;
+	position: absolute;
+	width: 339px;
+	height: 1px;
+	left: 18.5px;
+	top: 400.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-whatsapp {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-whatsapp {
+	overflow: visible;
+	position: absolute;
+	width: 16.506px;
+	height: 16.506px;
+	left: 27px;
+	top: 418px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather-mail {
+	position: absolute;
+	width: 14.843px;
+	height: 10.903px;
+	left: 27.663px;
+	top: 458px;
+	overflow: visible;
+}
+#Path_45 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_45 {
+	overflow: visible;
+	position: absolute;
+	width: 16.343px;
+	height: 12.402px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_46 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1.5px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_46 {
+	overflow: visible;
+	position: absolute;
+	width: 16.915px;
+	height: 6.556px;
+	left: 0px;
+	top: 1.363px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID1_Krio_Educare_PvtLtd_Anand_ {
+	left: 88px;
+	top: 549px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(102,102,102,1);
+}
+#ID2_Krio_Educare_Pvt_Ltd_A1_Pr {
+	left: 219px;
+	top: 544px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(102,102,102,1);
+}
+#Line_14 {
+	fill: transparent;
+	stroke: rgba(254,12,152,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_14 {
+	overflow: visible;
+	position: absolute;
+	width: 22px;
+	height: 1px;
+	left: 70.5px;
+	top: 235.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Pngtreecartoon_cute_child_peek {
+	position: absolute;
+	width: 166.258px;
+	height: 233.987px;
+	left: 268.371px;
+	top: 78.006px;
+	overflow: visible;
+}
