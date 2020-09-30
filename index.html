@@ -6,10 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Home</title>
 <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="css/index.css"/>
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
-  />	
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />	
 <script id="applicationScript" type="text/javascript" src="js/index.js"></script>
 </head>
 <body>
@@ -95,7 +92,7 @@
 		<rect id="Rectangle_19_bh" rx="0" ry="0" x="0" y="0" width="260" height="260">
 		</rect>
 	</svg>
-	<img class="animate__animated animate__bounce" id="cam" src="images/cam.png" srcset="images/cam.png 1x">
+	<img data-aos="zoom-in" id="cam" src="images/cam.png" srcset="images/cam.png 1x">
 	<img id="abc" src="images/abc.png" srcset="images/abc.png 1x">
 	<img id="fruit" src="images/fruit.png" srcset="images/fruit.png 1x">
 	<img id="NoPath_-_Copy_9" src="images/NoPath_-_Copy_9.png" srcset="images/NoPath_-_Copy_9.png 1x">
@@ -777,6 +774,9 @@
 		</input>
 	</form>
 </div>
-
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
 </body>
 </html>
